@@ -1,6 +1,3 @@
-以下をそのまま `README.md` にどうぞ。
-（このREADMEは `virtual_moon_approach_3_d_canvas.html` の実装を前提に書いています。）
-
 ---
 
 # Virtual Moon Approach – 3D風（WebGL2）
